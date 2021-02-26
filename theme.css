@@ -1,4 +1,3 @@
-@import url('https://anti-betterdocs.github.io/BlockBetterDocs/code.css');
 /* Custom Guild Icon */
 .theme-dark .homeIcon-tEMBK1 {
     background: url('https://pre00.deviantart.net/f2ac/th/pre/i/2017/044/1/7/discord_logo1600_by_seoxys6-dayxre0.png');
@@ -577,7 +576,6 @@
     background: linear-gradient(90deg,rgba(54,57,63,0),rgb(29, 29, 31) 80%);
 }
 
-/* code from an addon not mine but a good addition for privacy */
 /* Blur account email */
 .userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-x8iAUj {
     filter: blur(5px);
